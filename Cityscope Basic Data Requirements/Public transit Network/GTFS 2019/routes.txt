@@ -1,0 +1,172 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+3240,600,16V,Leonera,,3,,24b0ff,fffffe
+3237,600,16H,San Vicente,,3,,10069f,FFFFFF
+3239,600,16K,Leonera,,3,,24b0ff,fffffe
+3238,600,16I,San Vicente,,3,,10069f,FFFFFF
+3085,570,41V,4 Esquinas,,3,,ff8000,fffffe
+3083,570,41Q,Concepción,,3,,c6007e,FFFFFF
+3175,570,41R,4 Esquinas,,3,,ff8000,000000
+3176,570,41C,Terminal Collao,,3,,5f04b4,fffffe
+3089,571,42F,Concepción,,3,,ff00ff,FFFFFF
+3088,571,42U,Terminal Collao,,3,,5f04b4,fffffe
+3086,571,42W,Hualpencillo,,3,,ff8000,FFFFFF
+3178,571,42H,Hualpencillo,,3,,ff8000,000000
+3280,608,30R,Las Higueras,,3,,8a0808,fffffe
+3282,608,30N,Industrias,,3,,8a0808,fffffe
+3281,608,30E,Penco Chico,,3,,01df74,fffffe
+3278,608,30M,Industrias,,3,,8a0808,fffffe
+3279,608,30Q,Mall - Las Higueras - CAP,,3,,8a0808,FFFFFF
+3100,608,57P,San Vicente,,3,,0404b4,fffffe
+3101,608,57Y,Cosmito camino a Penco,,3,,01df74,000000
+3276,608,30C,Penco Lirquen,,3,,01df74,fffffe
+3277,608,30D,Rios de Chile,,3,,01df74,fffffe
+3275,608,30B,Penco Lirquen,,3,,01df74,fffffe
+3095,574,50U,Las Higueras - Gaete,,3,,8a0808,fffffe
+3094,574,50S,Centro Concepción,,3,,ff00ff,FFFFFF
+3029,559,17W,Porvenir - Los Bloques,,3,,0077c8,FFFFFF
+3027,559,17A,Cerro Verde Bajo,,3,,01df74,FFFFFF
+3028,559,17 O,Valle Nonguen,,3,,981d97,FFFFFF
+3030,559,17 X,Porvenir - Los Bloques,,3,,24b0ff,000000
+475745,559,17M,Penco centro,,3,,01df74,FFFFFF
+483812,559,17C,LEONERA,,3,,0077c8,FFFFFF
+3018,555,13S,Leonera,,3,,24b0ff,fffffe
+3017,555,13G,Puerta Los Leones,,3,,0404b4,fffffe
+3091,572,43T,Hualpencillo,,3,,ff8000,000000
+3090,572,43J,Santa Sabina,,3,,000001,fffffe
+3274,607,24T,Los Fresnos,,3,,981d97,FFFFFF
+3272,607,24F,Candelaria,,3,,007749,FFFFFF
+3273,607,24R,Candelaria,,3,,007749,FFFFFF
+3271,607,24M,Los Fresnos,,3,,981d97,FFFFFF
+3096,575,52A,Puerta Los Leones,,3,,0404b4,fffffe
+3185,575,52D,Palomares,,3,,5f04b4,fffffe
+3110,579,62N,San Vicente,,3,,0404b4,fffffe
+3191,579,62O,Villa Cap - Barrio Norte,,3,,000001,fffffe
+3109,579,62M,San Vicente,,3,,0404b4,fffffe
+3188,579,62H,Lirquen,,3,,01df74,fffffe
+537109,579,62V,Villa Cap,,3,,000000,FFFFFF
+3354,629,90J,Parque Central,,3,,ffbf00,000001
+3353,629,90E,Lagos De Chile,,3,,5f04b4,fffffe
+3356,629,90Y,Los Queules,,3,,5f04b4,fffffe
+3355,629,90X,Parque Central,,3,,ffbf00,000000
+614445,573,44E,V.Cap - Lomas,,3,,000001,FFFFFF
+614449,573,44U,Hualpencillo,,3,,ff8000,000000
+614450,573,44A,Lomas - Mall,,3,,000001,FFFFFF
+614451,573,44B,Hualpencillo,,3,,ff8000,000000
+3107,578,60Z,Pedro De Valdivia,,3,,848484,fffffe
+3106,578,60Y,Padre Hurtado,,3,,ff8000,fffffe
+3103,578,60L,Lomas de san andres,,3,,000001,FFFFFF
+3102,578,60K,U. Américas - Mall,,3,,000001,FFFFFF
+3105,578,60X,Hualpén,,3,,ff8000,fffffe
+3104,578,60M,Bario Norte - Santa Sabina,,3,,000001,fffffe
+3211,595,10A,Centinela I - Mirador del Pacífico,,3,,cb333b,FFFFFF
+3218,595,10K,Leonera,,3,,0077c8,000000
+3219,595,10D,Las Canchas,,3,,cb333b,FFFFFF
+3216,595,10M,Leonera,,3,,24b0ff,fffffe
+3214,595,10N,Los Bloques,,3,,24b0ff,fffffe
+3215,595,10O,Porvenir,,3,,24b0ff,000000
+3212,595,10B,Lobos Viejos,,3,,cb333b,FFFFFF
+3213,595,10C,Las Canchas,,3,,cb333b,FFFFFF
+3222,595,10T,Tumbes,,3,,cb333b,FFFFFF
+3221,595,10L,Los Bloques,,3,,24b0ff,fffffe
+3220,595,10P,Leonera,,3,,24b0ff,fffffe
+416539,595,10 J,Centinela,,3,,cb333b,FFFFFF
+3227,597,12A,Leonera,,3,,24b0ff,000000
+3228,597,12Q,Puerto,,3,,0404b4,fffffe
+3229,597,12R,Puerto,,3,,0404b4,fffffe
+3230,597,12B,Leonera,,3,,24b0ff,000000
+3186,576,56O,Puerta Los Leones,,3,,0404b4,fffffe
+3187,576,56V,Los Fresnos,,3,,981d97,FFFFFF
+3352,628,81C,Hualqui,,3,,dba901,000000
+3351,628,81S,Puerto,,3,,0404b4,fffffe
+3233,599,14T,Los Altos,,3,,24b0ff,fffffe
+3235,599,14Z,Terminal Collao,,3,,981d97,FFFFFF
+3234,599,14U,Los Altos - Policlinico,,3,,24b0ff,fffffe
+3236,599,14H,San Vicente,,3,,10069f,FFFFFF
+3116,580,63F,Chillancito,,3,,000001,fffffe
+3117,580,63G,Barrio Norte,,3,,000001,fffffe
+3118,580,63H,Barrio Norte,,3,,000001,fffffe
+3119,580,63I,Recodo,,3,,007749,FFFFFF
+3121,580,63P,Barrio Norte,,3,,000001,fffffe
+3120,580,63K,Juan Pablo II,,3,,ffbf00,000000
+3036,560,20A,Boca Sur,,3,,007749,FFFFFF
+3168,560,20Z,Puerta Los Leones,,3,,0404b4,fffffe
+3163,560,20L,Boca Sur,,3,,088a29,fffffe
+3164,560,20V,Pta. Los Leones,,3,,10069f,FFFFFF
+3165,560,20W,San Pedro De La Costa,,3,,088a29,fffffe
+3167,560,20J,Puerta Los Leones,,3,,10069f,FFFFFF
+216743,560,20M,San Pedro de la Costa,,3,,007749,FFFFFF
+216744,560,20T,Pta.Leones,,3,,10069f,FFFFFF
+3223,596,11E,Talcahuano,,3,,10069f,FFFFFF
+3224,596,11Q,Los Bloques,,3,,0077c8,FFFFFF
+3225,596,11F,Talcahuano,,3,,10069f,FFFFFF
+3226,596,11R,Los Bloques,,3,,0077c8,FFFFFF
+135726,596,11C,Talcahuano,,3,,10069f,FFFFFF
+135727,596,11M,Los Bloques,,3,,0077c8,FFFFFF
+3081,569,40P,4 Esquinas,,3,,ff8000,000000
+3080,569,40N,4 Esquinas,,3,,ec6907,000000
+3078,569,40B,La Araucana,,3,,5f04b4,fffffe
+3079,569,40G,Candelaria,,3,,007749,FFFFFF
+2992,548,02D,Diego Portales,,3,,ff8000,fffffe
+2993,548,02K,Centinela,,3,,ff0000,FFFFFF
+2994,548,02P,Peñuelas,,3,,ff8000,fffffe
+2991,548,02A,Centinela I - Mirador del Pacífico,,3,,ff0000,fffffe
+3126,582,70F,Valle Nonguén,,3,,5f04b4,fffffe
+3128,582,70J,Los Copihues,,3,,ff0000,fffffe
+3195,582,70K,Los Copihues,,3,,ff0000,fffffe
+3193,582,70I,Centinela,,3,,ff0000,fffffe
+3192,582,70G,Palomares Km 10,,3,,5f04b4,fffffe
+3169,582,70H,Valle Nonguén,,3,,5f04b4,fffffe
+3123,581,65E,Peñuelas,,3,,ff8000,000000
+3189,581,65R,Santa Sabina,,3,,000001,FFFFFF
+614599,581,65D,P. SAAVEDRA,,3,,ffc72c,000000
+614617,581,65Q,STA. SABINA,,3,,000001,FFFFFF
+614619,581,65F,ALTO COSTANERA,,3,,ff8000,000000
+614621,581,65S,STA. SABINA,,3,,000001,FFFFFF
+3039,561,21B,Candelaria,,3,,007749,FFFFFF
+3040,561,21Q,Terminal Collao,,3,,981d97,FFFFFF
+3183,567,32G,Rios De Chile,,3,,01df74,fffffe
+3184,567,32H,Lobos Viejos,,3,,ff0000,fffffe
+3181,567,32E,Lobos Viejos,,3,,ff0000,fffffe
+3077,567,32Y,Rios De Chile,,3,,01df74,fffffe
+483815,567,32J,Lobos Viejos,,3,,ff0000,FFFFFF
+483867,567,32K,Ríos de Chile,,3,,01df74,FFFFFF
+3048,562,22N,Michaihue,,3,,088a29,fffffe
+3047,562,22K,La Araucana,,3,,5f04b4,fffffe
+3052,562,22X,Galvarino - Hospital Regional,,3,,c6007e,FFFFFF
+3050,562,22C,Lomas Coloradas - Coloane,,3,,007749,FFFFFF
+3051,562,22S,La Araucana,,3,,5f04b4,fffffe
+3043,562,22R,Universidad Bio Bio,,3,,981d97,FFFFFF
+3044,562,22D,Michaihue,,3,,007749,FFFFFF
+3045,562,22E,Candelaria,,3,,007749,FFFFFF
+3046,562,22J,Collao,,3,,981d97,FFFFFF
+3171,562,22O,San Pedro De La Costa,,3,,088a29,fffffe
+3150,20555,B02 Biobús,Estación Concepción - Aeropuerto - Casino,,3,,9b2743,FFFFFF
+380187,20555,B01 Biobús centro,Biocentro: Estación Concepción - Tribunales,,3,,c6007e,FFFFFF
+3135,584,72Z,Lonco,,3,,898d8d,000000
+3136,584,72W,Valle Nonguén,,3,,981d97,FFFFFF
+3134,584,72J,Lonco,,3,,898d8d,000000
+3196,584,72K,Valle Noble,,3,,981d97,FFFFFF
+3130,583,71I,V. Nonguen,,3,,981d97,000000
+3131,583,71Z,4 Esquinas - Lenga,,3,,ff8000,000000
+3139,585,80J,San Vicente,,3,,10069f,FFFFFF
+3138,585,80H,Hualqui,,3,,dba901,fffffe
+3141,585,80L,San Vicente,,3,,0404b4,fffffe
+3140,585,80K,San Vicente,,3,,0404b4,fffffe
+3197,585,80Z,Valle La Piedra,,3,,24b0ff,fffffe
+3198,585,80Q,Santa Josefina,,3,,dba901,fffffe
+3180,566,31D,Lobos Viejos,,3,,ff0000,fffffe
+3072,566,31F,Lirquén,,3,,01df74,fffffe
+3053,563,23A,Terminal Collao,,3,,5f04b4,fffffe
+3056,563,23P,Michaihue,,3,,088a29,FFFFFF
+3057,563,23Q,Michaihue,,3,,088a29,fffffe
+3054,563,23L,Nonguén,,3,,981d97,FFFFFF
+3055,563,23N,Terminal Collao,,3,,5f04b4,fffffe
+3173,563,23T,San Pedro De La Costa,,3,,088a29,fffffe
+216737,563,23S,Terminal Collao,,3,,c6007e,FFFFFF
+216738,563,23E,Nonguén,,3,,981d97,FFFFFF
+216740,563,23B,Michaihue,,3,,007749,FFFFFF
+216741,563,23V,Michaihue,,3,,007749,FFFFFF
+2990,589,Linea 2,Concepción - Coronel,De Centro A Suroeste,2,,ff4000,FFFFFF
+2989,589,Linea 1,Hualqui - Talcahuano,De Noroeste A Sureste,2,,ff4000,fffffe
+3032,4254,18P,Palomares,,3,,981d97,FFFFFF
+3031,4254,18Y,Rinconada,,3,,dba901,fffffe
