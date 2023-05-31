@@ -5,10 +5,10 @@ Preguntas a helen.delafuente@citylabbiobio.cl
 
 Los datos están clasificados en las siguientes carpetas:
 
-- Background Costanera: Antecedentes de proyectos, paper, intervenciones realizadas en los barrios de Costanera
+- Background Costanera: Antecedentes de proyectos, papers e intervenciones realizadas en los barrios de Costanera
 - Cityscope Basic Data Requirements: Datos base principalmente geográfica para la implementación de Cityscope
 
-Las siguientes carpetas contienen otros datos que podrían utilizarse para el Cityscope. Las categorías corresponde a este [protocolo] 
+Las siguientes carpetas contienen otros datos que podrían utilizarse para el Cityscope. Las categorías corresponden a este [protocolo] 
 
 - Energy
 - Enviromental data
