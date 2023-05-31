@@ -12,4 +12,4 @@ La información o resultados de estos proyectos están en las siguientes carpeta
 
 
 
-[listado] :https://docs.google.com/spreadsheets/d/1jcYpmQ5PGsvbwEqr_F7woMcfliMioDnuS5xB_bm_rEI/edit?usp=sharing
+[listado]:https://docs.google.com/spreadsheets/d/1jcYpmQ5PGsvbwEqr_F7woMcfliMioDnuS5xB_bm_rEI/edit?usp=sharing
