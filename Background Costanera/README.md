@@ -1,6 +1,6 @@
 ## Antecedentes de Costanera
 
-Los proyectos catastrados hasta el momento se encuentran en un listado y son de diferentes sectores:público, privado o academia 
+Los proyectos catastrados hasta el momento se encuentran en un [listado] y son de diferentes sectores:público, privado o academia 
 
 La información o resultados de estos proyectos están en las siguientes carpetas
 
