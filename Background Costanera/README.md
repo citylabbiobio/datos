@@ -1,5 +1,5 @@
 ## Antecedentes de Costanera
 
--Academia studies
+- Academia studies
 
--Goverment studies
+- Goverment studies
